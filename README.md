@@ -6,9 +6,10 @@ I'm Jackie, an incoming graduate student studying digital signal processing in r
 Some of my projects include:
   1. Sleep state estimation by spatiotemporal EEG segmentation
   2. Heart rate monitoring via circuit design and ECG processing
-  4. Protein propagation modeling in Parkinson's Disease
-  5. Wearable device for hand tremor characterization
-  6. Neurologic CA prognosis using ML classification and HPC
+  3. Protein propagation modeling in Parkinson's Disease
+  4. Wearable device for hand tremor characterization
+  5. Neurologic CA prognosis using ML classification and HPC
+  6. Running Wordle on a portable embedded system
 
 
 I code mainly in MATLAB, Python, and R, but am learning SQL, C++, and Julia.
