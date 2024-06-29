@@ -9,7 +9,7 @@ Some of my projects include:
   3. Protein propagation modeling in Parkinson's Disease
   4. Wearable device for hand tremor characterization
   5. Neurologic CA prognosis using ML classification and HPC
-  6. Running Wordle on a portable embedded system
+  6. Wordle gameplay on a portable embedded system
 
 
 I code mainly in MATLAB, Python, and R, but am learning SQL, C++, and Julia.
