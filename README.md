@@ -2,7 +2,7 @@ Thank you for stopping by!
 
 I'm Jackie, an incoming graduate student studying digital signal processing in relation to medical brain imaging.
 
-Some of my projects included:
+Some of my projects include:
   1. Sleep state estimation with spatiotemporal EEG segmentation
   2. Heart rate monitoring via circuit design and signal analysis
   4. Protein propagation modeling in Parkinson's Disease
