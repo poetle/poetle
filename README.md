@@ -1,19 +1,17 @@
 Thank you for stopping by!
 
-I'm Jackie, an incoming graduate student studying digital signal processing in relation to medical brain imaging. Currently working as a data analyst at MGH CNTR developing pipelines to process patient waveform data, such as EEG, EHR, and telemetry for improved clinical decisionmaking.
+I'm Jackie, a data analyst at MGH CNTR developing ML pipelines to draw predictions across patient data. This comprises EEG, EHR, and ECG along with telemetry waveforms and medical imaging modalities for improved clinical decision-making in critical care.
 
+My current interests lie in digital signal processing and MRI, including ML implementations in these areas.
 
 Some of my past projects include:
   >1. Sleep state estimation by spatiotemporal EEG segmentation
-  >2. Heart rate monitoring via circuit design and ECG analysis
+  >2. Heart rate monitoring via PPG circuit design and ECG analysis
   >3. Protein propagation modeling in Parkinson's Disease
   >4. Wearable device for hand tremor characterization
-  >5. Neurologic CA prognosis using ML classification and HPC batch processing
+  >5. Neuroprognostication of CA using ML classification and HPC
   >6. Wordle gameplay on a portable embedded system
 
+I code mainly in MATLAB, Python, and R, but am learning SQL, C++, and Julia. I've recently been really interested in DevOps.
 
-I code mainly in MATLAB, Python, and R, but am learning SQL, C++, and Julia.
-
-Have recently been really interested in DevOps as a whole.
-
-My portfolio page is a work in progress at the moment, but feel free to look around!
+Feel free to look around!
